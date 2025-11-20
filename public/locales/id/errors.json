@@ -1,0 +1,24 @@
+{
+  "errors": {
+    "AUTH_001": "Kredensial tidak valid",
+    "AUTH_002": "Sesi Anda telah berakhir",
+    "AUTH_003": "Token autentikasi tidak valid",
+    "AUTH_004": "Gagal menyegarkan token",
+    "AUTH_005": "Akses tidak sah",
+    "VAL_001": "Format email tidak valid",
+    "VAL_002": "Kata sandi tidak memenuhi persyaratan",
+    "VAL_003": "Bidang wajib diisi",
+    "VAL_004": "Format tidak valid",
+    "VAL_005": "Entri duplikat",
+    "RES_001": "Sumber daya tidak ditemukan",
+    "RES_002": "Sumber daya sudah ada",
+    "RES_003": "Izin ditolak",
+    "RES_004": "Konflik terdeteksi",
+    "RES_005": "Sumber daya dihapus",
+    "SRV_001": "Kesalahan server internal",
+    "SRV_002": "Kesalahan koneksi database",
+    "SRV_003": "Kesalahan layanan eksternal",
+    "SRV_004": "Permintaan habis waktu",
+    "SRV_005": "Batas kecepatan tercapai"
+  }
+}

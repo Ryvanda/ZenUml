@@ -1,0 +1,48 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Zen circle - representing balance and focus -->
+  <circle cx="32" cy="32" r="28" stroke="url(#zenGradient)" stroke-width="2" fill="none" opacity="0.3"/>
+  
+  <!-- Three interlocking rounded rectangles representing UML class boxes and collaboration -->
+  <g transform="translate(32, 32)">
+    <!-- First box - slightly rotated -->
+    <rect x="-12" y="-16" width="24" height="14" rx="2" fill="url(#box1Gradient)" opacity="0.9"/>
+    
+    <!-- Second box - overlapping -->
+    <rect x="-10" y="-6" width="20" height="14" rx="2" fill="url(#box2Gradient)" opacity="0.85"/>
+    
+    <!-- Third box - bottom -->
+    <rect x="-8" y="4" width="16" height="12" rx="2" fill="url(#box3Gradient)" opacity="0.8"/>
+  </g>
+  
+  <!-- Connecting lines suggesting relationships -->
+  <path d="M 20 24 Q 24 28 28 32" stroke="url(#lineGradient)" stroke-width="1.5" fill="none" opacity="0.6"/>
+  <path d="M 44 24 Q 40 28 36 32" stroke="url(#lineGradient)" stroke-width="1.5" fill="none" opacity="0.6"/>
+  
+  <!-- Gradients -->
+  <defs>
+    <linearGradient id="zenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+    
+    <linearGradient id="box1Gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+    
+    <linearGradient id="box2Gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+    
+    <linearGradient id="box3Gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#93c5fd"/>
+      <stop offset="100%" stop-color="#60a5fa"/>
+    </linearGradient>
+    
+    <linearGradient id="lineGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+  </defs>
+</svg>

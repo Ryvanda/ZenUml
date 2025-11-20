@@ -1,0 +1,24 @@
+{
+  "errors": {
+    "AUTH_001": "Invalid credentials provided",
+    "AUTH_002": "Your session has expired",
+    "AUTH_003": "Invalid authentication token",
+    "AUTH_004": "Failed to refresh token",
+    "AUTH_005": "Unauthorized access",
+    "VAL_001": "Invalid email format",
+    "VAL_002": "Password does not meet requirements",
+    "VAL_003": "Required field is missing",
+    "VAL_004": "Invalid format",
+    "VAL_005": "Duplicate entry",
+    "RES_001": "Resource not found",
+    "RES_002": "Resource already exists",
+    "RES_003": "Permission denied",
+    "RES_004": "Conflict detected",
+    "RES_005": "Resource deleted",
+    "SRV_001": "Internal server error",
+    "SRV_002": "Database connection error",
+    "SRV_003": "External service error",
+    "SRV_004": "Request timeout",
+    "SRV_005": "Rate limited"
+  }
+}

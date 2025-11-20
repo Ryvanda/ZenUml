@@ -1,0 +1,24 @@
+{
+  "errors": {
+    "AUTH_001": "Credenciales proporcionadas inválidas",
+    "AUTH_002": "Tu sesión ha expirado",
+    "AUTH_003": "Token de autenticación inválido",
+    "AUTH_004": "Error al actualizar el token",
+    "AUTH_005": "Acceso no autorizado",
+    "VAL_001": "Formato de correo electrónico inválido",
+    "VAL_002": "La contraseña no cumple los requisitos",
+    "VAL_003": "Falta un campo obligatorio",
+    "VAL_004": "Formato inválido",
+    "VAL_005": "Entrada duplicada",
+    "RES_001": "Recurso no encontrado",
+    "RES_002": "El recurso ya existe",
+    "RES_003": "Permiso denegado",
+    "RES_004": "Conflicto detectado",
+    "RES_005": "Recurso eliminado",
+    "SRV_001": "Error interno del servidor",
+    "SRV_002": "Error de conexión de base de datos",
+    "SRV_003": "Error de servicio externo",
+    "SRV_004": "Tiempo de espera agotado",
+    "SRV_005": "Límite de velocidad excedido"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "common": {
+    "appName": "Ascend",
+    "appDescription": "Herramienta Moderna de Diagramas UML",
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "retry": "Reintentar",
+    "close": "Cerrar",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "create": "Crear",
+    "update": "Actualizar",
+    "success": "Éxito",
+    "warning": "Advertencia",
+    "info": "Información"
+  },
+  "nav": {
+    "home": "Inicio",
+    "projects": "Proyectos",
+    "settings": "Configuración",
+    "profile": "Perfil",
+    "logout": "Cerrar Sesión",
+    "login": "Iniciar Sesión",
+    "register": "Registrarse"
+  },
+  "errors": {
+    "404": {
+      "title": "Página No Encontrada",
+      "message": "La página que buscas no existe."
+    },
+    "500": {
+      "title": "Error del Servidor",
+      "message": "Algo salió mal. Intenta más tarde."
+    }
+  }
+}
